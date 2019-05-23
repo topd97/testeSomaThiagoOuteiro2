@@ -1,0 +1,22 @@
+{
+  "name": "testeSomaThiagoOuteiro2",
+  "version": "0.1.0",
+  "summary": "A short description of testeSomaThiagoOuteiro2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/topd97/testeSomaThiagoOuteiro2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "topd97": "thiago.damasceno@corp.globo.com"
+  },
+  "source": {
+    "git": "https://github.com/topd97/testeSomaThiagoOuteiro2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testeSomaThiagoOuteiro2/Classes/**/*"
+}

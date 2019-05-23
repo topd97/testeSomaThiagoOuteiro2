@@ -30,8 +30,8 @@
 /* Begin PBXFileReference section */
 		20D5F1F9BE1CB2710CD14F90 /* Pods_testeSomaThiagoOuteiro2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testeSomaThiagoOuteiro2_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C008DB5FE28132AB3C4B53D /* Pods-testeSomaThiagoOuteiro2_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testeSomaThiagoOuteiro2_Example.release.xcconfig"; path = "Target Support Files/Pods-testeSomaThiagoOuteiro2_Example/Pods-testeSomaThiagoOuteiro2_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3EBCC472D516582874AE8074 /* testeSomaThiagoOuteiro2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = testeSomaThiagoOuteiro2.podspec; path = ../testeSomaThiagoOuteiro2.podspec; sourceTree = "<group>"; };
-		435520B7EBFD810FAE40E9FD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3EBCC472D516582874AE8074 /* testeSomaThiagoOuteiro2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = testeSomaThiagoOuteiro2.podspec; path = ../testeSomaThiagoOuteiro2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		435520B7EBFD810FAE40E9FD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* testeSomaThiagoOuteiro2_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testeSomaThiagoOuteiro2_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		8284E0E0263C78DF7D910EDA /* Pods-testeSomaThiagoOuteiro2_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testeSomaThiagoOuteiro2_Tests.debug.xcconfig"; path = "Target Support Files/Pods-testeSomaThiagoOuteiro2_Tests/Pods-testeSomaThiagoOuteiro2_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		84125EAA48F9D318B02937FF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		84125EAA48F9D318B02937FF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C85ACA870F2468884DEDCB1C /* Pods_testeSomaThiagoOuteiro2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testeSomaThiagoOuteiro2_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA50CBBF231D9E76CD97A969 /* Pods-testeSomaThiagoOuteiro2_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testeSomaThiagoOuteiro2_Tests.release.xcconfig"; path = "Target Support Files/Pods-testeSomaThiagoOuteiro2_Tests/Pods-testeSomaThiagoOuteiro2_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		EC472AF32B73FA22743607BA /* Pods-testeSomaThiagoOuteiro2_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testeSomaThiagoOuteiro2_Example.debug.xcconfig"; path = "Target Support Files/Pods-testeSomaThiagoOuteiro2_Example/Pods-testeSomaThiagoOuteiro2_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -156,7 +156,6 @@
 				8284E0E0263C78DF7D910EDA /* Pods-testeSomaThiagoOuteiro2_Tests.debug.xcconfig */,
 				DA50CBBF231D9E76CD97A969 /* Pods-testeSomaThiagoOuteiro2_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
