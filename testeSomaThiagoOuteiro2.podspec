@@ -29,7 +29,7 @@ Tentando fazer a lib pela segunda vez. Agora vai
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
-
+  s.swift_version = '4.0'
   s.source_files = 'testeSomaThiagoOuteiro2/Classes/**/*'
   
   # s.resource_bundles = {
