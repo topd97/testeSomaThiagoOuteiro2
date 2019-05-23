@@ -7,11 +7,16 @@
 //
 
 import UIKit
+import testeSomaThiagoOuteiro2
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print(MakeSum.init().soma(primeiro: 5, segundo: 5))
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

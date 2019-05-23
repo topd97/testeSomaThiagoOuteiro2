@@ -7,8 +7,10 @@
 
 import Foundation
 
-public class MakeSum{
-    
+public class MakeSum: NSObject{
+    override public init() {
+        super.init()
+    }
     public func soma(primeiro: Int, segundo: Int) -> Int {
         return primeiro + segundo
     }

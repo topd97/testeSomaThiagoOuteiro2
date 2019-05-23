@@ -1,5 +1,5 @@
 PODS:
-  - testeSomaThiagoOuteiro2 (0.1.0)
+  - testeSomaThiagoOuteiro2 (0.1.1)
 
 DEPENDENCIES:
   - testeSomaThiagoOuteiro2 (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  testeSomaThiagoOuteiro2: c8eafd1b22a879f90fd370c16fff47805879c070
+  testeSomaThiagoOuteiro2: e74985911a401ac2501e579d612d69ec9bc16ef0
 
-PODFILE CHECKSUM: 7cd1f8fa8e6d3a0e4727c305820ffc09fe3bcc6b
+PODFILE CHECKSUM: bfc0c418e7d37577586ae12a6ca826736e93e457
 
 COCOAPODS: 1.6.1

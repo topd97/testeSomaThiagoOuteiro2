@@ -5,7 +5,7 @@ target 'testeSomaThiagoOuteiro2_Example' do
 
   target 'testeSomaThiagoOuteiro2_Tests' do
     inherit! :search_paths
-
+    pod 'testeSomaThiagoOuteiro2', :path => '../'
     
   end
 end
